@@ -34,7 +34,7 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 - Light Sensor
 - 3 LEDs
 - 4 Buttons
-- Squeaker (Buzzer, Speacker)
+- Squeaker (Buzzer, Speaker)
 - 6 resistors 10K
 
 ![OWLOS Meteo schematic](https://github.com/KirinDenis/Meteo/raw/main/resources/gallery/MeteoSchematic.jpg)
